@@ -21,7 +21,7 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ![IA](https://github.com/Amadeo-Frontend/AI__Desafio-natty-or-not/assets/104178969/e959d349-ca6b-43ea-95aa-877c33130d02)
 
-
+(Foto:Microsoft Copilot)
 ## Índice 📚
 
 1. [Introdução](#introdução)
