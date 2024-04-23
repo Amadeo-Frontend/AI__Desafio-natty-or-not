@@ -87,11 +87,12 @@ A era das IAs Generativas está transformando o mundo do fisiculturismo, oferece
 # TITULO: IA Generativas no Mundo do Fisiculturismo: Explorando o Futuro da Competição e da Criatividade 💪🤖
 
 ## 📒 Descrição
-Este projeto consiste na criação de um eBook sobre o tema das Inteligências Artificiais (IAs) Generativas no fisiculturismo. O eBook aborda diversos aspectos relacionados ao uso dessas tecnologias no esporte, desde sua ascensão até os desafios éticos e oportunidades de criatividade que apresentam.
+> Este projeto consiste na criação de um eBook sobre o tema das Inteligências Artificiais (IAs) Generativas no fisiculturismo. O eBook aborda diversos aspectos relacionados ao uso dessas tecnologias no esporte, desde sua ascensão até os desafios éticos e oportunidades de criatividade que apresentam.
 
 ## 🤖 Tecnologias Utilizadas
 - **GPT (Generative Pre-trained Transformer):** Este modelo de linguagem artificial foi utilizado para gerar o conteúdo do eBook, incluindo os capítulos, a introdução e as perguntas frequentes.
-- **Markdown:** O eBook foi formatado utilizando a linguagem de marcação Markdown para facilitar a leitura e navegação em plataformas que suportam esse formato.
+- **Markdown:** O eBook foi criado pelo chatGPT 3.5 utilizando a linguagem de marcação Markdown para facilitar a leitura e navegação em plataformas que suportam esse formato.
+- **Microsoft Copilot:** Usando técnicas avançadas de IA generativa, foram combinados elementos do mundo do fisiculturismo com uma estética futurística. O fundo da cidade futurística e o holograma de cérebro ao lado do fisiculturista foram adicionados para criar uma composição intrigante e única.
 
 ## 🧐 Processo de Criação
 O processo de criação começou com a análise do prompt fornecido pelo usuário, que incluía a geração de um eBook completo com 15 capítulos, uma introdução detalhada e perguntas frequentes. Em seguida, utilizei o modelo GPT para gerar cada parte do eBook, seguindo as diretrizes fornecidas no prompt. Cada capítulo foi desenvolvido com base em informações relevantes sobre o tema e incorporou conceitos relacionados às IAs Generativas e ao fisiculturismo.
