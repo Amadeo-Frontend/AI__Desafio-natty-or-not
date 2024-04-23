@@ -19,6 +19,9 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 # IA Generativas no Mundo do Fisiculturismo: Explorando o Futuro da Competição e da Criatividade 💪🤖
 
+![IA](https://github.com/Amadeo-Frontend/AI__Desafio-natty-or-not/assets/104178969/e959d349-ca6b-43ea-95aa-877c33130d02)
+
+
 ## Índice 📚
 
 1. [Introdução](#introdução)
