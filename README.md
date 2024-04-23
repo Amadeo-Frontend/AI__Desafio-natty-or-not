@@ -1,6 +1,7 @@
 # Python: Desvendando os Mistérios da Linguagem de Programação 🐍
 
-
+![py](https://github.com/Amadeo-Frontend/AI__Desafio-natty-or-not/assets/104178969/7af10c05-476f-429d-a284-04ffab5f35b5)
+(Foto:Microsoft Copilot)
 
 ## Índice 📚
 
