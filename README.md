@@ -13,6 +13,7 @@
 
 ## 🚀 Resultados
 > O resultado final é um eBook completo e informativo que aborda a programação em Python de maneira abrangente. O eBook inclui uma introdução detalhada sobre a linguagem, diversos capítulos que exploram diferentes aspectos da programação em Python e perguntas frequentes que oferecem insights adicionais. A formatação em Markdown permite uma leitura fácil e agradável em diversas plataformas.
+> Confira o Ebook abaixo 👇
 
 # Python: Desvendando os Mistérios da Linguagem de Programação 🐍
 
