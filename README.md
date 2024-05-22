@@ -1,5 +1,13 @@
 # TITULO: Python: Desvendando os Mistérios da Linguagem de Programação 🐍
 
+## Apresentação em video
+
+
+
+https://github.com/Amadeo-Frontend/AI__Desafio-natty-or-not/assets/104178969/f575a22d-917f-4380-a8df-cfd447f35410
+
+
+(Feito pela IA da InVideo)
 ## 📒 Descrição
 > Este projeto consiste na elaboração de um eBook sobre o tema da programação em Python. O eBook aborda diversos aspectos relacionados à linguagem de programação Python, desde os fundamentos básicos até tópicos mais avançados, como desenvolvimento web, ciência de dados e inteligência artificial.
 
