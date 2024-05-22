@@ -12,6 +12,7 @@ https://github.com/Amadeo-Frontend/AI__Desafio-natty-or-not/assets/104178969/f57
 > Este projeto consiste na elaboração de um eBook sobre o tema da programação em Python. O eBook aborda diversos aspectos relacionados à linguagem de programação Python, desde os fundamentos básicos até tópicos mais avançados, como desenvolvimento web, ciência de dados e inteligência artificial.
 
 ## 🤖 Tecnologias Utilizadas
+- **INVideoAI:** Video criado com apenas um prompt que é o título do projeto.Feito 100% com IA.
 - **GPT (Generative Pre-trained Transformer):** Utilizou-se este modelo de linguagem artificial para gerar o conteúdo do eBook, incluindo os capítulos, a introdução e as perguntas frequentes.
 - **Markdown:** O eBook foi formatado utilizando a linguagem de marcação Markdown, proporcionando uma leitura e navegação mais fluidas em diversas plataformas.
 - **Microsoft Copilot:** Recorreu-se a técnicas avançadas de IA generativa para combinar elementos do mundo da programação Python com uma estética futurística.
